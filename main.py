@@ -29,7 +29,7 @@ def get_article():
 @app.route("/liked-article")
 def liked_article():
 
-    return 'Escreva o código para mudar o primeiro artigo para a lista like_articles'
+    return 'Escreva o código para mudar o primeiro artigo para a lista liked_articles'
 
 
 # API para mover o artigo para a lista de artigos não curtidos
